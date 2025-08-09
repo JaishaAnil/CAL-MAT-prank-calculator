@@ -6,13 +6,25 @@
 - Team Lead: JAISHA N -  COLLEGE OF ENGINEERING AND MANAGEMENT PUNNAPRA
 - Member 2: ASWATHY MG - COLLEGE OF ENGINEERING AND MANAGEMENT PUNNAPRA
 ### Project Description
-CAL-MAT is a quirky twist on the classic calculator — it listens for sounds and responds with unexpected answers, motivational quotes, or silly pranks instead of just plain numbers. A perfect blend of math, mischief, and microphone magic!
+CAL-MAT is a quirky twist on the classic calculator
+— it listens for sounds and responds with unexpected answers, 
+motivational quotes, or silly pranks instead of just plain numbers.
+A perfect blend of math, mischief, and microphone magic!
 ### The Problem (that doesn't exist)
-People are tired of calculators giving the right answer every time. There’s a severe lack of suspense, humor, and personality in everyday arithmetic. The world desperately needs a calculator that listens, judges, and occasionally roasts the user before revealing — or refusing — the result.
+People are tired of calculators giving the right answer every time.
+There’s a severe lack of suspense, humor, and personality in everyday arithmetic.
+The world desperately needs a calculator that listens, judges, 
+and occasionally roasts the user before revealing — or refusing — the result.
 ### The Solution (that nobody asked for)
-CAL-MAT boldly solves this non-problem by turning a simple calculation into a two-minute suspense thriller — using your microphone to detect sounds, replacing answers with motivational quotes, bad puns, or pure nonsense. Finally, a calculator that prioritizes comedy over correctness!
+CAL-MAT boldly solves this non-problem by turning
+a simple calculation into a two-minute suspense thriller
+— using your microphone to detect sounds, replacing answers
+with motivational quotes, bad puns, or pure nonsense. Finally,
+a calculator that prioritizes comedy over correctness!
 ## Technical Details
-Built with HTML5, CSS3, and Vanilla JavaScript using the Web Audio API for microphone access and sound detection. Features a safe math evaluator, prank/motivation logic, and runs fully client-side, hosted on GitHub Pages.
+Built with HTML5, CSS3, and Vanilla JavaScript 
+using the Web Audio API for microphone access and sound detection.
+Features a safe math evaluator, prank/motivation logic, and runs fully client-side, hosted on GitHub Pages.
 ### Technologies/Components Used
 For Software:
 - LANGUAGES-HTML,CSS,JAVASCRIPT
@@ -25,21 +37,28 @@ For Software:
 For Hardware:
 NONE-
 ### Implementation
-For Software:Built a responsive HTML/CSS interface with JavaScript handling sound detection via the Web Audio API. Based on input and detected sound, it either calculates safely or displays prank/motivational messages. Hosted on GitHub Pages for instant access.
+For Software:Built a responsive HTML/CSS interface 
+with JavaScript handling sound detection via the Web Audio API.
+Based on input and detected sound, it either calculates safely 
+or displays prank/motivational messages. Hosted on GitHub Pages for instant access.
 # Installation
 No installation required — open the hosted link in any modern web browser.
 # Run
-Open the hosted GitHub Pages link or double-click index.html in the project folder, then allow microphone access to start using the app
+Open the hosted GitHub Pages link or double-click index.html in 
+the project folder, then allow microphone access to start using the app
 ### Project Documentation
 For Software:CAL-MAT – Prank & Motivational Calculator
 Overview:
-CAL-MAT is a fun twist on calculators, using sound detection to decide whether to give correct answers, motivational quotes, or playful pranks.
+CAL-MAT is a fun twist on calculators, using sound
+detection to decide whether to give correct answers, 
+motivational quotes, or playful pranks.
 
 Problem (That Doesn’t Exist):
 Calculators are too predictable and boring.
 
 Solution (Nobody Asked For):
-A calculator that listens, judges, and surprises you instead of always solving correctly.
+A calculator that listens, judges, and surprises you 
+instead of always solving correctly.
 
 Tech Stack:
 Languages: HTML, CSS, JavaScript
@@ -47,7 +66,8 @@ API: Web Audio API
 Tools: VS Code, GitHub Pages
 
 Implementation:
-Responsive HTML/CSS UI, JavaScript for sound detection and prank logic, hosted on GitHub Pages.
+Responsive HTML/CSS UI, JavaScript for sound detection
+and prank logic, hosted on GitHub Pages.
 
 Usage:
 Open the hosted link or index.html locally → allow mic access → make a sound → get a result, quote, or prank.
